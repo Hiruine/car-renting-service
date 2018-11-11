@@ -1,6 +1,6 @@
-### Car Renting Service
+# Car Renting Service
 
-#Introduction
+## Introduction
 
 Car renting service is a mobile focused application that will help people, in a short period of time, to find a car.
 The application facilitates the car renting by avoiding the usual bureaucratic procedures that are ecountered in traditional car renting providers. 
